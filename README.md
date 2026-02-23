@@ -3,7 +3,7 @@
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-Plugin-7C3AED?logo=obsidian&logoColor=white)
 ![Version](https://img.shields.io/github/v/release/EugeneAllford/obsidian-editor-line-number)
-![Downloads](https://img.shields.io/github/downloads/EugeneAllfordE/obsidian-editor-line-number/total)
+![Downloads](https://img.shields.io/github/downloads/EugeneAllford/obsidian-editor-line-number/total)
 ![License](https://img.shields.io/github/license/EugeneAllford/obsidian-editor-line-number)
 ![CodeMirror 6](https://img.shields.io/badge/CodeMirror-6-blue)
 
