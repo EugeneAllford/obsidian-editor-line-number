@@ -1,0 +1,58 @@
+/* ============================= */
+/* ===== БАЗОВАЯ ЛОГИКА ======= */
+/* ============================= */
+
+.cm-editor.eln-ln-left .cm-gutters {
+  order: 0;
+}
+
+.cm-editor.eln-ln-left-offset .cm-gutters {
+  margin-left: var(--eln-offset, 40px);
+}
+
+.cm-editor.eln-ln-right .cm-gutters {
+  order: 2;
+  border-right: none;
+  border-left: 1px solid var(--background-modifier-border);
+}
+
+/* ============================= */
+/* ===== VS CODE STYLE ========= */
+/* ============================= */
+
+/* Фиксированная ширина gutter */
+.cm-lineNumbers {
+  min-width: 3.5em;
+  width: 3.5em;
+}
+
+/* Выравнивание цифр вправо */
+.cm-lineNumbers .cm-gutterElement {
+  text-align: right;
+  padding-right: 8px;
+  padding-left: 4px;
+  box-sizing: border-box;
+  opacity: 0.75;
+}
+
+/* Чтобы цифры не дергались при 1000+ строк */
+.cm-lineNumbers .cm-gutterElement {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Выравнивание */
+
+.cm-editor.eln-align-right .cm-lineNumbers .cm-gutterElement {
+  text-align: right;
+  padding-right: 8px;
+  font-variant-numeric: tabular-nums;
+}
+
+.cm-editor.eln-align-left .cm-lineNumbers .cm-gutterElement {
+  text-align: left;
+  padding-left: 8px;
+}
+
+.cm-editor.eln-align-center .cm-lineNumbers .cm-gutterElement {
+  text-align: center;
+}

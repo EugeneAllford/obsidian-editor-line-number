@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-editor-line-number",
+  "name": "Editor Line Number",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Adds customizable line numbers to the Obsidian editor (position, offset, VS Code style alignment).",
+  "author": "AlfiLab",
+  "authorUrl": "https://github.com/alfilab",
+  "isDesktopOnly": false
+}
