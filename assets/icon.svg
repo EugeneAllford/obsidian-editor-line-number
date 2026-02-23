@@ -1,0 +1,14 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="24" fill="#7C3AED"></rect>
+  <rect x="24" y="28" width="80" height="72" rx="8" fill="white" opacity="0.15"></rect>
+  
+  <!-- line numbers -->
+  <text x="38" y="50" font-size="16" fill="white" font-family="monospace">1</text>
+  <text x="38" y="70" font-size="16" fill="white" font-family="monospace">2</text>
+  <text x="38" y="90" font-size="16" fill="white" font-family="monospace">3</text>
+
+  <!-- text lines -->
+  <line x1="55" y1="45" x2="95" y2="45" stroke="white" stroke-width="3"></line>
+  <line x1="55" y1="65" x2="90" y2="65" stroke="white" stroke-width="3"></line>
+  <line x1="55" y1="85" x2="98" y2="85" stroke="white" stroke-width="3"></line>
+</svg>
