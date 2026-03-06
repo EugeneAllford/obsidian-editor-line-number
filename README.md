@@ -1,4 +1,4 @@
-# obsidian-editor-line-number
+# editor-line-number
 # Editor Line Number
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-Plugin-7C3AED?logo=obsidian&logoColor=white)
